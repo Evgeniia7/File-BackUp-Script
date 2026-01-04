@@ -28,8 +28,8 @@ Supports **full** and **incremental** backups, allows you to set source and dest
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:Evgeniia7/Automated-System-Update-Script.git
-cd gitproject/backup
+git clone https://github.com/Evgeniia7/File-BackUp-Script.git
+cd File-BackUp-Script
 
 #### 2. Make the Script Executable
 chmod +x backup.sh
