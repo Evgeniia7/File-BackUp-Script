@@ -17,13 +17,13 @@ The File Backup Script is a Bash-based interactive tool that allows users to cre
 
 ## Getting Started
 
-### Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/Evgeniia7/File-BackUp-Script.git
 cd File-BackUp-Script
 
-#### Make the Script Executable
+2. Make the Script Executable
 chmod +x backup_script.sh
 
-##### Run the Script
+3. Run the Script
 ./backup_script.sh
